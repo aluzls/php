@@ -1,2 +1,3 @@
 # php
 Estudo da linguagem php
+Estou estudando POO no PHP, já usei PHP4 no passado...
